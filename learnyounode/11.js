@@ -1,3 +1,6 @@
+/*
+   print hello world
+*/
 var http = require('http');
 var fs = require('fs');
 
